@@ -1,1 +1,4 @@
-//rainfall prediction
+//rainfall prediction using machine learning
+1)LogisticRegression
+2)SVC
+3)XGBClassifier
